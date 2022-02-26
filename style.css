@@ -75,3 +75,25 @@ ul li{
     
     
 }
+.container{
+    width: 8oopx;
+    margin: 50px auto 0;
+    box-sizing: border-box;
+    
+}
+
+.row{
+    margin: 10px 0;
+    float: left;
+
+}
+
+.column{
+    background: #ccc;
+    display: table-cell;
+    padding: 10px;
+    width: 33.33333%;
+    text-align: center;
+    vertical-align: middle;
+    border-right: 10px solid;
+}
