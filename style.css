@@ -55,7 +55,7 @@ li a.active{
 
  .lucy{
      width: 500px;
-     height: 500px;
+     height: 400px;
      background-image: url(lucy.jpg);
      background-size: contain;
      justify-items: right;
