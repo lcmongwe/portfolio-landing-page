@@ -5,7 +5,8 @@ landing page portfolio
 Lucy Masika Mongwe
 
 ## Project Description
-> This is a landing page with aa brief description about me.my name, career,hobbies and education backgrounds are clearly outlined.
+> This is a landing page with a brief description about me, my name, career,hobbies and education backgrounds are clearly outlined. It also contains links to my projects done previously.
+
 
 ## project setup instructions
 This project was built using HTML and CSS
