@@ -12,7 +12,7 @@ Lucy Masika Mongwe
 This project was built using HTML and CSS
 
 ## Link to GitHub pages
-[Githhub pages link] (https://lcmongwe.github.io/portfolio-landing-page/ "github pages)
+[Githhub pages link] (https://lcmongwe.github.io/portfolio-landing-page/ "github pages link")
 
 ## Copyright and licence
 MIT licence
