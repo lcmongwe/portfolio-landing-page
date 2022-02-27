@@ -70,8 +70,9 @@ li a.active{
     font-size:x-large;
     font-weight: 600;
 }
-ul li{
+ul li :hover{
     font: 1em sans-serif;
+    color: blue;
     
     
 }
